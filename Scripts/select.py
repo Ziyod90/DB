@@ -28,4 +28,3 @@ for user in users:
 Должность: {job_title}
 ''')
     print('-' * 30)
-
